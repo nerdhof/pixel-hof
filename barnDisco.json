@@ -151,6 +151,12 @@
          "id":8,
          "name":"playerUnderObjects",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"..\/..\/..\/..\/quests.nerdhof.garden\/static\/maps\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
